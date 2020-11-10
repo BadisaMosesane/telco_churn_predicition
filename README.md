@@ -6,6 +6,15 @@ Powered by the SAIS Universities-Industry-Government Co-creation Platform:
 SAIS-UIG - a project that aims  to  develop  a  universities  centric  co-creation  platform  with  its  associated   activities,   government   &   industry   partnerships,   mentorship   and   processes centred on industry and government or stakeholder defined challenges solved by students through well-defined mentored flagstone capstone projects.
 [SAIS-UIG](https://www.saisprogramme.org/storage/app/media/projects/Universities%20Industries%20Government.pdf)
 
+Installation and Usage
+
+    Install all dependencies listed in requirements.txt, $ pip install -r requirements.txt
+    Run app.py to launch a local Dash server to host the Dash app. A link will appear in your console; click this to use the Dash app.
+
+![](images/uig_churn.png)
+![](images/churn.png)
+
+
 
 Table of Contents
 
