@@ -1,6 +1,8 @@
 Telco Customer Churn Prediction
 
-Powered by the SAIS Universities-Industry-Government Co-creation Platform:  
+Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. This application allows you to predict telco customer churn using machine learning algorithms (SVM, XGBoost) using Dash - an open source Python framework for building web analytic applications.
+
+The project is Powered by the SAIS Universities-Industry-Government Co-creation Platform:  
 ![](images/UIG_logo.png)
 
 SAIS-UIG - a project that aims  to  develop  a  universities  centric  co-creation  platform  with  its  associated   activities,   government   &   industry   partnerships,   mentorship   and   processes centred on industry and government or stakeholder defined challenges solved by students through well-defined mentored flagstone capstone projects.
