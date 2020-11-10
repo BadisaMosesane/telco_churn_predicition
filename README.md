@@ -27,7 +27,7 @@ SAIS-UIG - a project that aims  to  develop  a  universities  centric  co-creati
     Results
     Licensing, Authors, and Acknowledgements
 
-Project Analysis
+**Project Analysis**
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers.
 ![](images/churn.jpeg)
@@ -40,7 +40,7 @@ Predictive analytics use churn prediction models that predict customer churn by 
 ![](images/features.png)
 
 
-Installation
+**Installation**
 
 The code in this project is written in Python 3.6.6 :: Anaconda custom (64-bit). The following additional libraries have been used:
 
@@ -55,7 +55,7 @@ The code in this project is written in Python 3.6.6 :: Anaconda custom (64-bit).
     graphviz
   
 
-Metric
+**Metrics**
 
 The following metrics have been used to compare the model performances:
 
@@ -75,7 +75,7 @@ Data files (under data directory):
 
     WA_Fn_UseC_Telco_Customer_Churn.csv
 
-Results
+**Results**
 
 The following classifiers have been compared:
 
@@ -89,16 +89,16 @@ The results achieved the above classifiers give an output of customerID, churn a
 ![](images/predictions.png)
 
 
-Issues
+**Issues**
 * improve churn prediction accurary
 * train on more data
 * deploy application live
 
-Licensing
+**Licensing**
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-Authors
+**Authors**
 Badisa Mosesane 
 
-Contribute 
+**Contributing** 
 Send us a PR at https://github.com/BadisaMosesane/telco_churn_prediction
