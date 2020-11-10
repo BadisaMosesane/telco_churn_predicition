@@ -1,4 +1,4 @@
-Telco Customer Churn Prediction
+**Telco Customer Churn Prediction**
 
 Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers. This application allows you to predict telco customer churn using machine learning algorithms (SVM, XGBoost) using Dash - an open source Python framework for building web analytic applications.
 
@@ -8,7 +8,7 @@ The project is Powered by the SAIS Universities-Industry-Government Co-creation 
 SAIS-UIG - a project that aims  to  develop  a  universities  centric  co-creation  platform  with  its  associated   activities,   government   &   industry   partnerships,   mentorship   and   processes centred on industry and government or stakeholder defined challenges solved by students through well-defined mentored flagstone capstone projects.
 [SAIS-UIG](https://www.saisprogramme.org/storage/app/media/projects/Universities%20Industries%20Government.pdf)
 
-Installation and Usage
+**Installation and Usage**
 
     Install all dependencies listed in requirements.txt, $ pip install -r requirements.txt
     Run app.py to launch a local Dash server to host the Dash app. A link will appear in your console; click this to use the Dash app.
@@ -18,7 +18,7 @@ Installation and Usage
 
 
 
-Table of Contents
+**Table of Contents**
 
     Project Analysis
     Installation
