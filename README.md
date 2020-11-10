@@ -12,7 +12,7 @@ Installation and Usage
     Run app.py to launch a local Dash server to host the Dash app. A link will appear in your console; click this to use the Dash app.
 
 ![](images/uig_churn.png)
-![](images/churn.png)
+![](images/churn_app.png)
 
 
 
